@@ -16,15 +16,15 @@ export const HomeJourney = () => {
     },
     {
       year: "2023",
-      title: "REPORTER CO-CREATION",
-      description:
-        "Sham's visionary mindset led him to co-create Reporter, a digital-first news and media platform redefining modern storytelling and journalistic engagement.",
-    },
-    {
-      year: "2023",
-      title: "ALGORITHM CONSULTANT APPOINTMENT",
+      title: "ALGORITHM CONSULTANT AT REPORTER",
       description:
         "Following the success of Reporter, Sham was appointed as an Algorithm Consultant, marking a new chapter in his data-driven consulting expertise and establishing him as a thought leader in algorithmic strategy and implementation.",
+    },
+    {
+      year: "2025",
+      title: "TRILLION EDITION FOUNDED",
+      description:
+        "Trillion Edition, is a premium label redefining exclusivity and luxury branding. Launched in early 2025, it represents the next evolution in his entrepreneurial narrative—merging design, innovation, and storytelling.",
     },
   ];
 

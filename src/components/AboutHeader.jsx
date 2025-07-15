@@ -37,14 +37,14 @@ export default function AboutHeader() {
       description: "A clean beauty brand focused on transparency and innovation.",
     },
     {
-      year: "2023",
-      title: "Co-founded Reporter",
-      description: "A digital news platform blending technology with journalism.",
+      year: "2024",
+      title: "Appointed as Algorithm Consultant at Reporter",
+      description: "Helping brands optimize content, visibility, and growth using data science.",
     },
     {
-      year: "2024",
-      title: "Appointed as Algorithm Consultant",
-      description: "Helping brands optimize content, visibility, and growth using data science.",
+      year: "2025",
+      title: "Trillion Edition Founded",
+      description: "Trillion Edition, is a premium label redefining exclusivity and luxury branding.",
     },
   ];
 

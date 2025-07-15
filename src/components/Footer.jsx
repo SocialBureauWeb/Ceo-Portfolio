@@ -26,7 +26,7 @@ export default function Footer() {
         </div>
 
         {/* Social Icons */}
-        <div className="flex justify-center sm:justify-end space-x-4">
+        {/* <div className="flex justify-center sm:justify-end space-x-4">
           <a href="#" className="hover:text-white">
             <FaFacebookF />
           </a>
@@ -42,7 +42,7 @@ export default function Footer() {
           <a href="mailto:ceo@socialbureau.in" className="hover:text-white">
             <FaEnvelope />
           </a>
-        </div>
+        </div> */}
       </div>
 
       {/* Divider */}
