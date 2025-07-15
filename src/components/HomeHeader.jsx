@@ -87,10 +87,9 @@ export const HomeHeader = () => {
         <img 
           src="assets/sham.jpg" 
           alt="photo" 
-          className="w-[50vh] h-[45vh] object-cover pb-10 rounded-t-full"
+          className="w-[50vh] h-[70vh] object-cover pb-10 rounded-t-full"
         />
           </div>
-
           {/* Name */}
           <h1 className="hero-name font-playfair ">SHAM SK</h1>
 
