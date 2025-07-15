@@ -61,7 +61,7 @@ export default function AboutHeader() {
           {/* Right */}
           <div>
             <p className="text-lg leading-relaxed">
-              Sham SK is not just a serial entrepreneur—he is a catalyst for growth. With a sharp
+              Sham SK is not just a serial entrepreneur, he is a catalyst for growth. With a sharp
               eye for emerging trends and a passion for building businesses from the ground up, Sham
               has carved a niche as one of the region's most forward-thinking brand consultants.
             </p>
@@ -127,7 +127,7 @@ export default function AboutHeader() {
         </div>
 
         <p className="text-xl lg:text-2xl font-light text-gray-300 text-center px-4 py-12">
-          Sham believes in building brands with soul—those that create value, inspire loyalty, and
+          Sham believes in building brands with soul, those that create value, inspire loyalty, and
           scale ethically.
         </p>
       </section>

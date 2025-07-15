@@ -6,13 +6,13 @@ export const HomeJourney = () => {
       year: "2020",
       title: "SK WAY INTERNATIONAL FOUNDED",
       description:
-        "Sham SK began his professional journey by founding SK Way International—a business consulting and digital marketing firm built on the core principles of integrity, vision, and strategy. Under his leadership, SK Way quickly became a growth partner for startups and enterprises seeking digital transformation.",
+        "Sham SK began his professional journey by founding SK Way International, a business consulting and digital marketing firm built on the core principles of integrity, vision, and strategy. Under his leadership, SK Way quickly became a growth partner for startups and enterprises seeking digital transformation.",
     },
     {
       year: "2021",
       title: "EKA COSMETICS LAUNCH",
       description:
-        "Driven by his passion for lifestyle and wellness, Sham ventured into the beauty industry with the launch of EKA Cosmetics—a brand that blends modern skincare science with ethical values. EKA became a rising player in the beauty space, reflecting Sham's ability to shape consumer trends with clarity and confidence.",
+        "Driven by his passion for lifestyle and wellness, Sham ventured into the beauty industry with the launch of EKA Cosmetics, a brand that blends modern skincare science with ethical values. EKA became a rising player in the beauty space, reflecting Sham's ability to shape consumer trends with clarity and confidence.",
     },
     {
       year: "2023",
