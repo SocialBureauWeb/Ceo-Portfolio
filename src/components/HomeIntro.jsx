@@ -16,9 +16,9 @@ const HomeIntro = () => {
 
       <div className="flex flex-col md:flex-row items-center justify-between gap-10 max-w-6xl mx-auto">
         {/* Left Text */}
-        <div className="text-lg space-y-6 font-inter md:w-1/2 px-10">
+        <div className="text-lg space-y-6 font-inter md:w-1/2 px-10 text-justify">
           <p>
-            <strong>Sham SK</strong> – a name synonymous with innovation, digital transformation,
+            <strong className="text-yellow-500">Sham SK</strong> – a name synonymous with innovation, digital transformation,
             and strategic brand growth across India and the Middle East.
           </p>
           <p>

@@ -47,9 +47,9 @@ export const HomeJourney = () => {
               className="mb-16 relative pl-10 timeline-item"
             >
               {/* Dot */}
-              <div className="absolute -left-2.5 top-2 w-4 h-4 bg-white rounded-full border-4 border-black"></div>
+              <div className="absolute -left-2.5 top-2 w-4 h-4 bg-yellow-500 rounded-full border-4 border-black"></div>
 
-              <h3 className="text-2xl font-bold mb-1">{item.year}</h3>
+              <h3 className="text-2xl font-bold mb-1 text-yellow-500">{item.year}</h3>
               <h4 className="text-lg font-semibold mb-2">{item.title}</h4>
               <p className="text-gray-300 leading-relaxed">{item.description}</p>
             </div>
