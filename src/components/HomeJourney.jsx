@@ -4,7 +4,7 @@ export const HomeJourney = () => {
   const timelineData = [
     {
       year: "2020",
-      title: "SK WAY INTERNATIONAL FOUNDED",
+      title: "SK WAY PVT LTD FOUNDED",
       description:
         "Sham SK began his professional journey by founding SK Way International, a business consulting and digital marketing firm built on the core principles of integrity, vision, and strategy. Under his leadership, SK Way quickly became a growth partner for startups and enterprises seeking digital transformation.",
     },
@@ -16,7 +16,7 @@ export const HomeJourney = () => {
     },
     {
       year: "2023",
-      title: "ALGORITHM CONSULTANT AT REPORTER",
+      title: "ALGORITHM CONSULTANT PARTNER AT REPORTER",
       description:
         "Following the success of Reporter, Sham was appointed as an Algorithm Consultant, marking a new chapter in his data-driven consulting expertise and establishing him as a thought leader in algorithmic strategy and implementation.",
     },

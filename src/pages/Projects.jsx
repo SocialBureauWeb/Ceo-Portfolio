@@ -9,7 +9,7 @@ export const Projects = () => {
     {
       img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAA4CAMAAAC16DqDAAAArlBMVEX+AAD/////AADyAAD9+/v79fXxe3rshobxycnvhYbsa2jwY2f6AAD8///3AADmAAD77u7spKPuOTf3z9DnZmjoZWPoc3Twdnfus7Hpe3nx5uXogH/nXF7wXWLrqKXuhH/niInrl5LmTE3ourfmNjfuSUfvPkHwm5z2wsTkl5f3wL3uGBruWVrbdXXeAAD14uDfFRLlKiveraziHCDhpab12djbTkvgPTzfaGjhwcJyR9yJAAACCUlEQVRIie2WW5eaMBSFsyEZ6VSJgVEQ7YxyEy8jpZZq//8fa4Kjotyc167ZD5Ls87kXHjlRAlojoNamIIzrVfWAUY3NB4TpWlXfgOcaWy9wcq8TXrU/h5Mv/Av/D/DaaRrVTxMdP1XkuIBwqvYEBJ3ySutu3NCnJZzNvlf047VMa/1eCa/7qG8lWnbkytc38u2Glvy0Fe9d6I/iOb8V/8guNO3EjXLplN+Cl7PPfDN+R0v1WnCj6sv+NOHVbKV5A+7VuCq/KX1h1tDarPHe63i/pTPLe17zW/u+MG8rfse3esOr7I5npsz7DzyRF/6U3YVf+uO3TtN12or8czYafuTnuOEv9AMnwcK80o+cM0FpTVhoWWEchfISx5ZlRVGk9mqpXOnLvSrFcewPyNC3bXvJE/m6Whv22tI2rtHTt4Vr24btCrl0Xw072cozcviCwMWKeUK8U08wtgNSrI9IXAhhIFjmVIhFSkWKn1D4S4ZfLH929jTgAX6Dm3OsMMrgag6ifj4cOWHucYGQKhxgGQPDhMmlSORoxPJN0j0QB34/B6Mil/uEF+l/8pTTYLfbwcg2ZIKln9N3zPJU154Unu44T9MDJurej/B9HNW/tb9INI2Y8nAfbMfKHWsTiaey5KWeblCVziPdDPdheIj34aYvpfNQJ3rhqgvJZAutzOrrkcSp0Sz73sA/m5Eys3qopDYAAAAASUVORK5CYII=",
       title: "Reporter",
-      role: "Algorithm Consultant",
+      role: "Algorithm Consultant Partner",
       desc: "Built a digital-first platform with algorithm-driven reach. Helped Reporter become a credible voice for next-gen news consumers.",
     },
     {
@@ -21,7 +21,7 @@ export const Projects = () => {
     {
       img: "https://yt3.googleusercontent.com/RS4KMxrEwCPXSvbTyH9pdMFGobFRPb584qiiwfsbRmvZAFxyjNAuuDOPAeoZ07NV-X8ctfauXg=s160-c-k-c0x00ffffff-no-rj",
       title: "Dilse FM",
-      role: "Growth Consultant",
+      role: "Algorithm Consultant Partner [2023-24]",
       desc: "Expanded digital presence, introduced programmatic content flow to increase listener loyalty.",
     },
     {
@@ -31,9 +31,9 @@ export const Projects = () => {
       desc: "Market penetration in the UAE, brand localization, and digital strategy.",
     },
     {
-      img: "https://cafficana.com/wp-content/uploads/2020/02/logo-bean.png",
-      title: "Cafficana",
-      role: "Brand Strategy Consultant",
+      img: "https://www.yellowcloudonline.com/wp-content/uploads/2025/03/yellowcloudonline-3rd.png",
+      title: "Yellow Cloud",
+      role: "Brand Social Media Algorithm Consultant",
       desc: "Helped refine brand identity, social media strategy, and target audience segmentation.",
     },
     {

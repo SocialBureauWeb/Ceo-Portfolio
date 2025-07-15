@@ -26,8 +26,13 @@ export const HomeBrands = () => {
       
     },
     {
-      name: "Cafficana",
-      icon: "https://cafficana.com/wp-content/uploads/2020/02/logo-bean.png",
+      name: "Yellow Cloud",
+      icon: "https://www.yellowcloudonline.com/wp-content/uploads/2025/03/yellowcloudonline-3rd.png",
+      
+    },
+    {
+      name: "Spaco",
+      icon: "http://www.spaco.co.in/images/footer-logo.png",
       
     },
     {
@@ -55,25 +60,28 @@ export const HomeBrands = () => {
 
         {/* Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto">
-          {companies.map((company, index) => (
-            <div
-              key={index}
-              className="rounded-lg p-6 hover:scale-110 hover:shadow-md transition duration-300 text-center flex flex-col items-center"
-            >
-              <img
-                src={company.icon}
-                alt={company.name}
-                className="max-h-12 w-auto mb-4 object-contain"
-              />
-              <h3 className="text-lg font-semibold mb-1">{company.name}</h3>
-            </div>
-          ))}
+  {companies.map((company, index) => (
+    <div
+      key={index}
+      className="rounded-lg p-6 hover:scale-110 hover:shadow-md transition duration-300 text-center flex flex-col items-center"
+    >
+      <img
+        src={company.icon}
+        alt={company.name}
+        className="max-h-12 w-auto mb-4 object-contain"
+      />
+      <h3 className="text-lg font-semibold mb-1">{company.name}</h3>
+    </div>
+  ))}
 
-          {/* "Many More" */}
-          <div className="rounded-lg p-6 transition duration-300 text-center flex flex-col justify-center items-center">
-            <h3 className="text-lg font-semibold mb-1">Many More</h3>
-          </div>
-        </div>
+  {/* Centered "Many More" */}
+  <div className="col-span-full flex justify-center mt-4">
+    <div className="rounded-lg p-6 transition duration-300 text-center flex flex-col justify-center items-center">
+      <h3 className="text-lg font-semibold mb-1">Many More</h3>
+    </div>
+  </div>
+</div>
+
 
         {/* Closing line */}
         <p className="text-xl lg:text-2xl font-light text-gray-300 text-center mt-12 max-w-3xl mx-auto">

@@ -83,12 +83,12 @@ export const HomeHeader = () => {
       >
         <div className="text-center z-10 px-4">
           {/* Avatar Circle */}
-          <div className="w-64 h-64 md:w-72 md:h-72 rounded-full flex items-center justify-center mx-auto mb-6">
-<img 
-  src="assets/sham.jpg" 
-  alt="photo" 
-  className="w-80 h-100 rounded-full object-cover pb-10"
-/>
+          <div className=" md:w-72 md:h-72 rounded-full flex items-center justify-center mx-auto mb-6">
+        <img 
+          src="assets/sham.jpg" 
+          alt="photo" 
+          className="w-[50vh] h-[45vh] object-cover pb-10 rounded-t-full"
+        />
           </div>
 
           {/* Name */}

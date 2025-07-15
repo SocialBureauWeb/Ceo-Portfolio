@@ -28,7 +28,7 @@ export default function AboutHeader() {
   const milestones = [
     {
       year: "2020",
-      title: "Founded SK Way International",
+      title: "Founded SK Way Pvt Ltd",
       description: "A one-stop solution for business consulting and digital marketing.",
     },
     {
@@ -38,7 +38,7 @@ export default function AboutHeader() {
     },
     {
       year: "2024",
-      title: "Appointed as Algorithm Consultant at Reporter",
+      title: "Appointed as Algorithm Consultant Partner at Reporter",
       description: "Helping brands optimize content, visibility, and growth using data science.",
     },
     {
