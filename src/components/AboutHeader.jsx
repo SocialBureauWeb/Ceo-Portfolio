@@ -38,7 +38,7 @@ export default function AboutHeader() {
     },
     {
       year: "2024",
-      title: "Appointed as Algorithm Consultant Partner at Reporter",
+      title: "Appointed as Algorithm Consultant Partner at Reporter TV",
       description: "Helping brands optimize content, visibility, and growth using data science.",
     },
     {

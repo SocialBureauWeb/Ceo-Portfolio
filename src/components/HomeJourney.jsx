@@ -16,9 +16,9 @@ export const HomeJourney = () => {
     },
     {
       year: "2023",
-      title: "ALGORITHM CONSULTANT PARTNER AT REPORTER",
+      title: "ALGORITHM CONSULTANT PARTNER AT REPORTER TV",
       description:
-        "Following the success of Reporter, Sham was appointed as an Algorithm Consultant, marking a new chapter in his data-driven consulting expertise and establishing him as a thought leader in algorithmic strategy and implementation.",
+        "Following the success of Reporter TV, Sham was appointed as an Algorithm Consultant, marking a new chapter in his data-driven consulting expertise and establishing him as a thought leader in algorithmic strategy and implementation.",
     },
     {
       year: "2025",
