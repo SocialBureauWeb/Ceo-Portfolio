@@ -41,7 +41,7 @@ const Navbar = () => {
     <div className="nav-menu fixed top-0 left-0 right-0 z-50 py-4 bg-[rgba(10,10,10,0.9)] backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         {/* Logo */}
-        <div className="text-xl font-bold font-playfair text-white">Sham SK</div>
+        <div className="text-xl font-bold font-playfair text-white" style={{fontFamily:'Playfair'}}>Sham SK</div>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex gap-6 text-sm text-gray-400">
