@@ -15,12 +15,6 @@ export const HomeBrands = () => {
       
     },
     {
-      name: "Dilse FM",
-      icon:
-        "https://yt3.googleusercontent.com/RS4KMxrEwCPXSvbTyH9pdMFGobFRPb584qiiwfsbRmvZAFxyjNAuuDOPAeoZ07NV-X8ctfauXg=s160-c-k-c0x00ffffff-no-rj",
-      
-    },
-    {
       name: "Al Madina UAE",
       icon: "https://www.almadinahypermarket.ae/assets/img/madina-logo.png",
       
@@ -73,13 +67,9 @@ export const HomeBrands = () => {
       <h3 className="text-lg font-semibold mb-1">{company.name}</h3>
     </div>
   ))}
-
-  {/* Centered "Many More" */}
-  <div className="col-span-full flex justify-center mt-4">
-    <div className="rounded-lg p-6 transition duration-300 text-center flex flex-col justify-center items-center">
+<div className="rounded-lg p-6 transition duration-300 text-center flex flex-col justify-center items-center">
       <h3 className="text-lg font-semibold mb-1">Many More</h3>
     </div>
-  </div>
 </div>
 
 
